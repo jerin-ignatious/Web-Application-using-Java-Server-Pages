@@ -15,6 +15,7 @@ It consists of the following web pages:
 10. spaniel.jsp
 11. logout.jsp
 12. adminPanel.jsp
+
 It is developed using JSP, HTML, CSS, Bootstrap and a tiny bit of JavaScript.The database that is uesd is MySQL on XAMPP.
 The Starting page is index.html. From this page you can go to the web pages signup.jsp and login.jsp
 After logging in you are redirected to the web page success.jsp where you can see all the available puppies and adopt them.
