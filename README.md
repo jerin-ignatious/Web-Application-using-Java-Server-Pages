@@ -16,7 +16,7 @@ It consists of the following web pages:
 11. logout.jsp
 12. adminPanel.jsp
 
-It is developed using JSP, HTML, CSS, Bootstrap and a tiny bit of JavaScript.The database that is uesd is MySQL on XAMPP.
+It is developed using JSP, HTML, CSS, Bootstrap and a tiny bit of JavaScript.The database that is used is MySQL on XAMPP.
 The Starting page is index.html. From this page you can go to the web pages signup.jsp and login.jsp
 After logging in you are redirected to the web page success.jsp where you can see all the available puppies and adopt them.
 There is also a different login available for admin. Enter the username as admin and password as admin123 to access the admin panel.
